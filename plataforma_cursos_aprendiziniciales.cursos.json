@@ -1,0 +1,171 @@
+[{
+  "_id": {
+    "$oid": "69a6160ceb22f9724c6eefef"
+  },
+  "nombre": "portugués",
+  "categoria": "lenguas extranjeras",
+  "nivel": "basico,intermedio,avanzado",
+  "precio": {
+    "basico": "150000",
+    "intermedio": "250000",
+    "avanzado": "350000"
+  },
+  "duracion": "6 meses",
+  "instructor": {
+    "nombre": "juan",
+    "apellido": "perez",
+    "experiencia": "doctorado en idiomas"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a6160ceb22f9724c6eeff0"
+  },
+  "nombre": "frances",
+  "categoria": "lenguas extranjeras",
+  "nivel": "basico,intermedio,avanzado",
+  "precio": {
+    "basico": "150000",
+    "intermedio": "250000",
+    "avanzado": "350000"
+  },
+  "duracion": "6 meses",
+  "instructor": {
+    "nombre": "elena",
+    "apellido": "meneses",
+    "experiencia": "hablante nativo,certificado en lenguas extranjeras enfasis en frases"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a6160ceb22f9724c6eeff1"
+  },
+  "nombre": "chino",
+  "categoria": "lenguas extranjera",
+  "nivel": " basico,intermedio,avanzado",
+  "precio": {
+    "basico": "150000",
+    "intermedio": "250000",
+    "avanzado": "350000"
+  },
+  "duracion": "6 meses",
+  "instructor": {
+    "nombre": "pedro",
+    "apellido": "suares",
+    "experiencia": "doctorado en idiomas"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a6160ceb22f9724c6eeff2"
+  },
+  "nombre": "coreano",
+  "categoria": "lenguas extranjeras",
+  "nivel": "basico,intermedio,avanzado",
+  "precio": {
+    "basico": "150000",
+    "intermedio": "250000",
+    "avanzado": "350000"
+  },
+  "duracion": "6 meses",
+  "instructor": {
+    "nombre": "felipe",
+    "apellido": "cardenas",
+    "experiencia": "doctorado en idiomas"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a6160ceb22f9724c6eeff3"
+  },
+  "nombre": "español",
+  "categoria": "lenguas extranjeras",
+  "nivel": "Basico,intermedio,avanzado",
+  "precio": {
+    "basico": "150000",
+    "intermedio": "250000",
+    "avanzado": "350000"
+  },
+  "duracion": "6 meses",
+  "instructor": {
+    "nombre": "amanda",
+    "apellido": "mera",
+    "experiencia": "hablante nativa,doctorado en idiomas"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a6160ceb22f9724c6eeff4"
+  },
+  "nombre": "ruso",
+  "categoria": "lenguas extranjeras",
+  "nivel": "basico,intermedio,avanzado",
+  "precio": {
+    "basico": "150000",
+    "intermedio": "250000",
+    "avanzado": "350000"
+  },
+  "duracion": "6 meses",
+  "instructor": {
+    "nombre": "luis",
+    "apellido": "fernadez",
+    "experiencia": "doctorado en idiomas"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a6160ceb22f9724c6eeff5"
+  },
+  "nombre": "italiano",
+  "categoria": "lenguas extranjeras",
+  "nivel": "basico,intermedio,avanzdo",
+  "precio": {
+    "basico": "150000",
+    "intermedio": "250000",
+    "avanzado": "350000"
+  },
+  "duracion": "6 meses",
+  "instructor": {
+    "nombre": "alessandro",
+    "apellido": "russo",
+    "experiencia": "hablante nativo,doctorado en idiomas"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a6160ceb22f9724c6eeff6"
+  },
+  "nombre": "ingles",
+  "categoria": "lenguas extranjeras",
+  "nivel": "basico,intermedio,avanzado",
+  "precio": {
+    "basico": "150000",
+    "intermedio": "250000",
+    "avanzado": "350000"
+  },
+  "duracion": "6 meses",
+  "instructor": {
+    "nombre": "pedro",
+    "apellido": "leal",
+    "experiencia": "doctorado en idiomas"
+  }
+},
+{
+  "_id": {
+    "$oid": "69a6160ceb22f9724c6eeff7"
+  },
+  "nombre": "japones",
+  "categoria": "lenguas extranjeras",
+  "nivel": "basico,intermedio,avanzado",
+  "precio": {
+    "basico": "150000",
+    "intermedio": "250000",
+    "avanzado": "350000"
+  },
+  "duracion": "6 meses",
+  "instructor": {
+    "nombre": "asachi",
+    "apellido": "sato",
+    "experiencia": "hablante nativo,doctorado en idiomas"
+  }
+}]

@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "69a60f16eb22f9724c6eefe9"
+  },
+  "ID": "0987654321",
+  "nombre": "juan",
+  "apellido": "perez",
+  "correo": "juan1@gmail.com",
+  "edad": "18",
+  "direccion": {
+    "barrio": "maria occidente",
+    "ciudad": "popayan",
+    "pais": "colombia"
+  },
+  "departamento": "cauca",
+  "codigo": "09876",
+  "cursos": "español, ruso , italiano , coreano"
+},
+{
+  "_id": {
+    "$oid": "69a60f16eb22f9724c6eefea"
+  },
+  "ID": "0123456789",
+  "nombre": "felipe",
+  "apellido": "gomez",
+  "correo": "felgom@gmail.com",
+  "edad": "19",
+  "direccion": {
+    "barrio": "el cadillal",
+    "ciudad": "popayan",
+    "pais": "colombia"
+  },
+  "departamento": "cauca",
+  "codigo": "08461",
+  "cursos": "ingles ,frances , japones ,chino"
+},
+{
+  "_id": {
+    "$oid": "69a60f16eb22f9724c6eefeb"
+  },
+  "ID": "0147852369",
+  "nombre": "gabriela",
+  "apellido": "medina",
+  "correo": "gabi@gmail.com",
+  "edad": "22",
+  "direccion": {
+    "barrio": "alfonso lopez",
+    "ciudad": "popayan",
+    "pais": "colombia"
+  },
+  "departamento": "cauca",
+  "codigo": "01478",
+  "cursos": "ingles, portugués , frances , chino"
+},
+{
+  "_id": {
+    "$oid": "69a60f16eb22f9724c6eefec"
+  },
+  "ID": "0123654789",
+  "nombre": "maria jose",
+  "apellido": "campo",
+  "correo": "mari0@gmail.com",
+  "edad": "18",
+  "direccion": {
+    "barrio": "santa clara ",
+    "ciudad": "popayan",
+    "pais": "colombia"
+  },
+  "departamento": "cauca",
+  "codigo": "01236",
+  "cursos": "ruso , español,italiano , frances"
+}]
