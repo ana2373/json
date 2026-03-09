@@ -1,0 +1,46 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "24bb856e-5db8-4119-867b-0c3c699d3ccd",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1773085051974"
+        }
+      },
+      "favorite": {
+        "name": "Aprendices",
+        "color": "color1"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjoxLCJzdGF0ZSI6W119"
+        }
+      }
+    },
+    {
+      "id": "7c8c539a-23a4-4e68-9c38-eaf91ddafb0f",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1772543159081"
+        }
+      },
+      "favorite": {
+        "name": "plataforma_cursos_aprendiziniciales",
+        "color": "color7"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjoxLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
